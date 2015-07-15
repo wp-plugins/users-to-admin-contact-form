@@ -1,0 +1,7 @@
+.ucf_form{ width: 100%; padding: 10px 5px; float:left;}
+.ucf_field{ padding: 5px; font: 400 14px/1.5em Arial; border: 1px solid #CCC; transition: ease 0.3s linear; color: #3F4C6B; margin: 5px 0; border-radius:2px;}
+	.ucf_field:hover{ border: 1px solid #3F4C6B; color:#000;}
+.ucf_button{ background: #04A4CC; color: #FFF; font: 400 14px/1.5em Arial; transition: ease 0.3s linear; padding: 5px 20px; border: 1px solid #3F4C6B;}
+	.ucf_button:hover{ background: #3F4C6B; }
+.ucf_label_success{ color: #3C763D; background-color: #DFF0D8; border-color: #D6E9C6; width: 100%; float: left; margin:2px; padding:5px;}
+.ucf_label_alert{  color: #A94442; background-color: #F2DEDE; border-color: #EBCCD1; width: 100%; float: left; margin: 5px; padding:5px;}
